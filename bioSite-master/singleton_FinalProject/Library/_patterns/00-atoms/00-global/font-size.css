@@ -1,0 +1,12 @@
+<link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans" rel="stylesheet"> 
+html {
+
+    font-size: 32px
+}
+h1 {
+    font-family: 'Merriweather', serif, 'Merriweather Sans', sans-serif;
+    font-size: 2em
+}
+p {
+    font-family: 'Merriweather', serif, 'Merriweather Sans', sans-serif
+}

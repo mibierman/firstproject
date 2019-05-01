@@ -1,0 +1,98 @@
+html {
+    background-color: #8e4585;
+}
+img.montana-photo {
+    background-image: url(montana.photo);
+    width: 100%;
+    height: 250px;
+    margin: none;
+    padding: none;
+    position: absolute;
+}
+img.face-photo {
+    width: 250px;
+    height: 250px;
+    margin: 0px auto;
+    position: relative;
+    margin-top: 125px;
+    border-radius: 25%;
+    border: 2px solid purple;
+}
+.face {
+    text-align: center;
+}
+img.dad-photo {
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 20px;
+    margin-left: -100px;
+}
+img.soccer-photo {
+    width: 300px;
+    height: 300px;
+    float: right;
+    padding: 20px;
+    margin-right: -100px;
+}
+img.blue-shark {
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 20px;
+    margin-left: -100px;
+}
+img.dogs-photo {
+    width: 300px;
+    height: 300px;
+    float: right;
+    padding: 20px;
+    margin-right: -100px;
+}
+img.Elizabeth {
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding: 20px;
+    margin-left: -100px;
+}
+header {
+    width:100%;
+    margin-left: -150px;
+    margin-top: -8px;
+}
+body {
+    background-color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    clear: both;
+}
+h1 {
+    font-family: 'Merriweather', serif, 'Merriweather Sans', sans-serif;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 10px;
+}
+p {
+    font-family: 'Merriweather', serif, 'Merriweather Sans', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+a:link {
+    font-family: 'Merriweather', serif, 'Merriweather Sans', sans-serif;
+    font-size: 2em;
+    margin-left: 450px;
+    border: 2px solid black;
+    background-color: forestgreen;
+    color: lightgreen;
+    padding: 10px;
+}
+a:visited {
+    color: lightgreen
+}
+a:hover {
+    background-color: darkgreen;
+}
